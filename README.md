@@ -7,3 +7,4 @@ Este repositório contém o projeto prático desenvolvido como parte de um curso
 - Typescript
 - PostgreSQL
 - Prisma
+- Figma
