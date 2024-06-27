@@ -22,5 +22,8 @@ router.post('/category', isAuthenticated, new CreateCategoryController().handle)
 
 router.get('/category', isAuthenticated, new ListCategoryController().handle)
 
+//--ROTAS PRODUCTS
+router.post('/product', isAuthenticated, new CreateCategoryController().handle)
+
 
 export { router };
