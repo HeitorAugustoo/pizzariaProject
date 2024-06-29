@@ -21,7 +21,7 @@ class CreateCategoryService {
             }
         })
 
-        return { ok: true }
+        return category;
     }
 }
 
