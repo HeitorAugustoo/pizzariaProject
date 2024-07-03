@@ -55,30 +55,7 @@ Sei que possui alguns pontos para melhorar, e por isso busco cada vez mais conhe
 - Insomnia
 - Beekeeper Studio
 
-## Estrutura do Projeto
-
-backend/
-├── node_modules/           # Diretório com as dependências do Node.js
-├── prisma/                 # Arquivos relacionados ao Prisma ORM
-│   └── schema.prisma       # Esquema do banco de dados do Prisma
-├── src/                    # Código fonte do projeto
-│   ├── @types/             # Definições de tipos TypeScript
-│   ├── config/             # Configurações da aplicação
-│   ├── controllers/        # Controladores que contêm a lógica dos endpoints
-│   ├── middlewares/        # Middlewares para manipulação de requisições
-│   ├── prisma/             # Inicialização e configuração do Prisma
-│   ├── services/           # Serviços que contêm a lógica de negócio
-│   ├── routes.ts           # Definição das rotas da aplicação
-│   └── server.ts           # Inicialização do servidor Express
-├── tmp/                    # Diretório temporário
-├── .env                    # Variáveis de ambiente
-├── .gitignore              # Arquivo para ignorar arquivos e diretórios no Git
-├── package.json            # Dependências e scripts do projeto
-├── tsconfig.json           # Configurações do TypeScript
-├── yarn.lock               # Arquivo de lock do Yarn
-└── README.md               # Documentação do projeto
-
-## Contato
+## Informações de Contato
 
 Informações de contato caso alguém queira tirar dúvidas ou dar feedback sobre o projeto.
 
